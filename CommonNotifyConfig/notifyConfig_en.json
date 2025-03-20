@@ -1,0 +1,24 @@
+{
+  "data": [
+    {
+      "avatarImg": "1.png",
+      "describe": "火焰元素战斗法师",
+      "mainImg": "24.png",
+      "ntfId": 1001,
+      "type": 6,
+      "modelId": 0,
+      "sex": 1,
+      "direction": 1
+    },
+    {
+      "avatarImg": "1.png",
+      "describe": "蒸汽朋克风格机械师",
+      "mainImg": "23.png",
+      "ntfId": 2004,
+      "type": 6,
+      "modelId": 0,
+      "sex": 1,
+      "direction": 1
+    }
+  ]
+}

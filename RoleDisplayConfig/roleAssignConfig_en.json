@@ -1,0 +1,32 @@
+{
+  "data": [
+    {
+      "modelId": 1001,
+      "contentData": [
+        {
+          "describe": "英勇的战士角色",
+          "mainImg": "23.png",
+          "sex": 1,
+          "direction": 1
+        },
+        {
+          "describe": "神秘的法师角色",
+          "mainImg": "https://example.com/images/mage.png",
+          "sex": 1,
+          "direction": 1
+        }
+      ]
+    },
+    {
+      "modelId": 1002,
+      "contentData": [
+        {
+          "describe": "灵巧的刺客角色",
+          "mainImg": "23.png",
+          "sex": 1,
+          "direction": 1
+        }
+      ]
+    }
+  ]
+}
